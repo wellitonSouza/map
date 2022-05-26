@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', 'Roboto';
+}
+
+body{
+  background: #ECF0F0;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('./Helper/Fonts/Lato-Bold.ttf');
+  src: url('./Helper/Fonts/Lato-BoldItalic.ttf');
+  src: url('./Helper/Fonts/Lato-Italic.ttf');
+  src: url('./Helper/Fonts/Lato-Regular.ttf');
+}
